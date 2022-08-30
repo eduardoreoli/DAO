@@ -1,4 +1,6 @@
-<?php 
+<?php
+
+use const PHPSTORM_META\ANY_ARGUMENT;
 
 require_once("config.php");
 
